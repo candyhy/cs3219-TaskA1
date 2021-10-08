@@ -1,7 +1,6 @@
 version: '3'
 
 services:
-  # NodeJS web server
   nodejs-server:
     build: ./web-server
     container_name: nodejs-server
