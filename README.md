@@ -19,13 +19,13 @@ Build docker images:
 docker-compose build
 ```
 
-Serve web app on localhost:
+Serve webpage on localhost:
 
 ```
 docker-compose up
 ```
 
-Go to `http://localhost:8080` , a html page should be displayed: 
+Go to `http://localhost:8080` , a html page should be displayed: <br />
 "Welcome" <br />
 "This is Candice's webpage."
 
