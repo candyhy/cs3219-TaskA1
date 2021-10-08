@@ -26,8 +26,8 @@ docker-compose up
 ```
 
 Go to `http://localhost:8080` , a html page should be displayed: 
-"Welcome
-This is Candice's webpage."
+"Welcome" <br />
+"This is Candice's webpage."
 
 Next, go to `http://localhost` , the reverse proxy for `localhost:8080` . The same page should be displayed.
 
