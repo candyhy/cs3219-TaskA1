@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  # NodeJS web server
+  nodejs-server:
+    build: ./web-server
+    container_name: nodejs-server
+    restart: always
+    ports:
+      - 8080:9001
+
+  nginx:
+    build: ./nginx
+    container_name: nginx-reverseProxy
+    restart: always
+    ports:
+      - "80:80"
