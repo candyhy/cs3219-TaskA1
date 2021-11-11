@@ -1,4 +1,4 @@
-# cs3219-TaskA
+# cs3219-TaskA1
 
 ### Instructions:
 Clone the Github Repository on your local machine.
