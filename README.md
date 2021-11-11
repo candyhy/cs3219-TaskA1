@@ -4,13 +4,13 @@
 Clone the Github Repository on your local machine.
 
 ```
-git clone https://github.com/candyhy/cs3219-TaskA.git
+git clone https://github.com/candyhy/cs3219-TaskA1.git
 ```
 
 Navigate to the project directory.
 
 ```
-cd cs3219-TaskA
+cd cs3219-TaskA1
 ```
 
 Build docker images:
